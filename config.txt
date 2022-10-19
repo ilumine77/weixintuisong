@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2020-02-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "第一眼是爱情，最后一眼也是，每一眼都是",
+"note_ch": "我度量时间的方式不是三餐四季，不是昼夜交替，而是是否跟你在一起",
 # 金句英文
-"note_en": "It was love at first sight,at last sight,at ever and ever sight"
+"note_en": "Being with you and not being with you is only way I have to measure time"
 }
