@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2020-02-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "爱情不是数着日子过去，它让每个日子都变得有意义",
+"note_ch": "我见众生皆草木，唯有见你是青山",
 # 金句英文
-"note_en": "Love is not a matter of counting the days.its making the days count"
+"note_en": "愿我如星君如月，夜夜流光相皎洁"
 }
