@@ -19,9 +19,9 @@
 # 生日2
 "birthday2": {"name": "你的小秦", "birthday": "2001-12-20"},
 # 在一起的日子，格式同上，暂不不支持农历
-"love_date": "2020-02-21",
+"love_date": "2020-03-01",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "你遇见千千万万个人，没有一个能触动你，然后你遇见一个人，人生从此永远的被改变",
+"note_ch": "每天早上睁开眼睛，看到你和阳光都在，这就是我想要的未来",
 # 金句英文
-"note_en": "You meet thousands of people and none of them really touch you,and then you meet one person and you life is changed forever"
+"note_en": "我贪恋的人间烟火，不偏不倚恰好是你"
 }
